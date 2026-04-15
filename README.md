@@ -1,7 +1,7 @@
-HR Analytics Dashboard – Project Description
+HR Analytics Dashboard 
 
+Project Description
 This project presents an interactive HR Analytics Dashboard designed to analyze employee data and uncover insights related to workforce performance, compensation, and attrition trends.
-
 The dashboard provides a comprehensive overview of key HR metrics, including total employee count, average performance rating, average salary, and attrition rate. It enables HR teams and decision-makers to monitor organizational health and identify areas that require attention.
 
 Key Features & Insights:
@@ -13,6 +13,7 @@ Attrition Rate: 16.17%
 Performance Analysis
 Performance ratings analyzed by job role, department, and age group
 Helps identify high-performing roles and departments
+
 Attrition Analysis
 Attrition breakdown by:
 Job Role & Age Group
@@ -37,8 +38,8 @@ Tools & Technologies:
 Power BI (Data Visualization & Dashboard Design)
 Power Query (Data Cleaning & Transformation)
 DAX (Measures & Calculations)
-Project Goal:
 
+Project Goal:
 To enable data-driven HR decision-making by identifying patterns in employee performance, compensation, and attrition, ultimately helping improve employee retention and organizational efficiency.
 
 🛠 Tools Used
