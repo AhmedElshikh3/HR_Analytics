@@ -40,6 +40,7 @@ DAX (Measures & Calculations)
 Project Goal:
 
 To enable data-driven HR decision-making by identifying patterns in employee performance, compensation, and attrition, ultimately helping improve employee retention and organizational efficiency.
+
 Owned by Ahmed Al-Shikh
 
 <img width="1301" height="729" alt="Screenshot 2026-04-15 115152" src="https://github.com/user-attachments/assets/d51487c0-fde5-4552-ba26-d1ecfa93f1cd" />
